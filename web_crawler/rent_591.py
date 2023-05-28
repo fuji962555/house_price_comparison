@@ -8,15 +8,7 @@ from random import randint
 search_url={"文山區":"?region=1&section=12&searchtype=1","新店區":"?region=3&section=34&searchtype=1"}
 house_type={"公寓":"1","電梯大樓":"2","透天厝":"3","別墅":"4"}
 url="https://rent.591.com.tw/{}&showMore=1&shape={}"
-# headers = {
-# "Accept-Encoding":"gzip, deflate, br",
-# "Accept":"*/*",
-# "Accept-Language":"zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
-# "Origin":"https://rent.591.com.tw",
-# "Content-Type":"text/html",
-# "Referer":"https://rent.591.com.tw/",
-# "User-Agent":
-# "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"}
+
 options = webdriver.ChromeOptions()
 options.add_argument("incognito")
 driver = webdriver.Chrome(options = options)
