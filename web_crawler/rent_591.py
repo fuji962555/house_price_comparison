@@ -13,8 +13,9 @@ options = webdriver.ChromeOptions()
 options.add_argument("incognito")
 driver = webdriver.Chrome(options = options)
 
-all_data = []
+
 for k,v in search_url.items():
+    all_data = []
     for keyword,housetype in house_type.items():
         index_page=0   #每一頁30個row，第一頁的row為0
         while True:
@@ -27,7 +28,7 @@ for k,v in search_url.items():
             soup = BeautifulSoup(driver.page_source,"html.parser")   #取動態原始碼          
             get_list = soup.find("section",class_="vue-list-rent-content")   #取項目內容，並檢查是否為空
 
-            if get_list.text is None:  #若為空代表資料爬取完成，跳出
+            if get_list.text == "":  #若為空代表資料爬取完成，跳出
                 break
             
             href = get_list.find_all("section",class_="vue-list-rent-item")  #取每一個項目
@@ -44,27 +45,30 @@ for k,v in search_url.items():
 
                 item_style = value2.find("ul",class_="item-style").find_all("li")
                 item_tags = value2.find("ul",class_="item-tags").find_all("li")
-                item_price = value2.find("div",class_="item-price").text
+                item_price = value2.find("div",class_="item-price").find("div",class_="item-price-text").text
                 print(item_price)
                 data["total_price"]=int(item_price.replace("元/月","").replace(",","").strip())
 
-                for b in item_tags:
-                    b = b.text.replace(" ","").replace("\n","")
-                    data["search"].append(b)
                 for a in item_style:
-                    if "坪" in a.text :
+                    if "坪" in a.text:
                         data["square"]=float(a.text.replace("坪","").strip())
                     else:
                         a = a.text.replace(" ","").replace("\n","")
                         data["search"].append(a)
+                
+                for b in item_tags:
+                    b = b.text.replace(" ","").replace("\n","")
+                    data["search"].append(b)
+                
                 data["square_price"]=round(data["total_price"]/data["square"],2)
                 
+                if "車位" in data["search"]:  #排除是車位的項目
+                    continue
                 all_data.append(data)
                 print(data)
                 
             index_page+=1
+    
+    with open (f"rent_591_{k}.json","w",encoding="utf8") as f:
+        json.dump(all_data,f,ensure_ascii=False)
             
-print(all_data)        
-
-with open ("rent_591.json","w") as f:
-    json.dump(all_data,f)
