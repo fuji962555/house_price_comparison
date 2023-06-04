@@ -1,0 +1,6609 @@
+[
+    {
+        "district": "新店區",
+        "age": "41.6",
+        "type": "公寓",
+        "square": "34.61",
+        "square_price": 46.17,
+        "total_price": "1598 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.5",
+        "type": "公寓",
+        "square": "51.54",
+        "square_price": 38.42,
+        "total_price": "1980 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "30.2",
+        "type": "其他",
+        "square": "29.35",
+        "square_price": 50.02,
+        "total_price": "1468 ",
+        "search": [
+            "金運金"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.5",
+        "type": "公寓",
+        "square": "33.07",
+        "square_price": 47.11,
+        "total_price": "1558 ",
+        "search": [
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.0",
+        "type": "住宅大樓",
+        "square": "28.54",
+        "square_price": 55.99,
+        "total_price": "1598 ",
+        "search": [
+            "中正國宅甲區",
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "1.1",
+        "type": "住宅大樓",
+        "square": "114.37",
+        "square_price": 76.95,
+        "total_price": "8801 ",
+        "search": [
+            "合環永新",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.6",
+        "type": "華廈",
+        "square": "43.18",
+        "square_price": 34.69,
+        "total_price": "1498 ",
+        "search": [
+            "華城綠階",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "32.4",
+        "type": "公寓",
+        "square": "60.28",
+        "square_price": 24.55,
+        "total_price": "1480 ",
+        "search": [
+            "黎明清境"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.3",
+        "type": "住宅大樓",
+        "square": "108.67",
+        "square_price": 77.76,
+        "total_price": "8450 ",
+        "search": [
+            "合環御寶",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.3",
+        "type": "辦公商業大樓",
+        "square": "205.36",
+        "square_price": 80.35,
+        "total_price": "16500 ",
+        "search": [
+            "合環御寶",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "1.1",
+        "type": "住宅大樓",
+        "square": "114.12",
+        "square_price": 75.39,
+        "total_price": "8604 ",
+        "search": [
+            "合環永新",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.6",
+        "type": "公寓",
+        "square": "34.61",
+        "square_price": 46.17,
+        "total_price": "1598 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "57.50",
+        "square_price": 46.09,
+        "total_price": "2650 ",
+        "search": [
+            "大鵬華城",
+            "近捷運景美站",
+            "近捷運遠東工業區站(規劃中)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "95.27",
+        "square_price": 61.8,
+        "total_price": "5888 ",
+        "search": [
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.8",
+        "type": "住宅大樓",
+        "square": "202.04",
+        "square_price": 59.93,
+        "total_price": "12108 ",
+        "search": [
+            "國礎富裔河",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "152.11",
+        "square_price": 48.57,
+        "total_price": "7388 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷陽光運動公園站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.9",
+        "type": "住宅大樓",
+        "square": "95.35",
+        "square_price": 24.83,
+        "total_price": "2368 ",
+        "search": [
+            "達觀鎮A2",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "45.1",
+        "type": "華廈",
+        "square": "33.36",
+        "square_price": 52.46,
+        "total_price": "1750 ",
+        "search": [
+            "容石園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.1",
+        "type": "公寓",
+        "square": "35.70",
+        "square_price": 49.52,
+        "total_price": "1768 ",
+        "search": [
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.9",
+        "type": "公寓",
+        "square": "33.11",
+        "square_price": 62.82,
+        "total_price": "2080 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.3",
+        "type": "住宅大樓",
+        "square": "44.82",
+        "square_price": 23.43,
+        "total_price": "1050 ",
+        "search": [
+            "龍泉社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.1",
+        "type": "住宅大樓",
+        "square": "109.71",
+        "square_price": 17.14,
+        "total_price": "1880 ",
+        "search": [
+            "觀天下",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.5",
+        "type": "住宅大樓",
+        "square": "87.41",
+        "square_price": 55.92,
+        "total_price": "4888 ",
+        "search": [
+            "圓圓園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.6",
+        "type": "住宅大樓",
+        "square": "85.02",
+        "square_price": 69.75,
+        "total_price": "5930 ",
+        "search": [
+            "寶徠花園",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.2",
+        "type": "華廈",
+        "square": "38.42",
+        "square_price": 48.15,
+        "total_price": "1850 ",
+        "search": [
+            "羅馬山莊",
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "40.4",
+        "type": "透天厝",
+        "square": "70.47",
+        "square_price": 25.37,
+        "total_price": "1788 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "6.8",
+        "type": "住宅大樓",
+        "square": "123.62",
+        "square_price": 48.44,
+        "total_price": "5988 ",
+        "search": [
+            "國礎富裔河",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "11.9",
+        "type": "住宅大樓",
+        "square": "98.26",
+        "square_price": 59.84,
+        "total_price": "5880 ",
+        "search": [
+            "中興馥",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.5",
+        "type": "住宅大樓",
+        "square": "47.76",
+        "square_price": 71.17,
+        "total_price": "3399 ",
+        "search": [
+            "美河市",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.0",
+        "type": "華廈",
+        "square": "41.73",
+        "square_price": 59.86,
+        "total_price": "2498 ",
+        "search": [
+            "台北新廈",
+            "近捷運大坪林站",
+            "近捷運遠東工業區站(規劃中)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.6",
+        "type": "住宅大樓",
+        "square": "99.06",
+        "square_price": 69.45,
+        "total_price": "6880 ",
+        "search": [
+            "寶徠花園",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.4",
+        "type": "其他",
+        "square": "59.20",
+        "square_price": 50.34,
+        "total_price": "2980 ",
+        "search": [
+            "青山鎮一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "40.67",
+        "square_price": 69.78,
+        "total_price": "2838 ",
+        "search": [
+            "漢皇吾岳",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "22.34",
+        "square_price": 79.05,
+        "total_price": "1766 ",
+        "search": [
+            "漢皇吾岳",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "14.61",
+        "square_price": 80.77,
+        "total_price": "1180 ",
+        "search": [
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.1",
+        "type": "透天厝",
+        "square": "130.25",
+        "square_price": 30.56,
+        "total_price": "3980 ",
+        "search": [
+            "大學詩鄉",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "15.7",
+        "type": "住宅大樓",
+        "square": "64.38",
+        "square_price": 54.05,
+        "total_price": "3480 ",
+        "search": [
+            "合環輕井澤",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "3.6",
+        "type": "住宅大樓",
+        "square": "30.75",
+        "square_price": 67.9,
+        "total_price": "2088 ",
+        "search": [
+            "新上",
+            "碧波白",
+            "近捷運新店站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.9",
+        "type": "公寓",
+        "square": "33.79",
+        "square_price": 47.29,
+        "total_price": "1598 ",
+        "search": [
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "44.9",
+        "type": "華廈",
+        "square": "24.10",
+        "square_price": 61.74,
+        "total_price": "1488 ",
+        "search": [
+            "倚翠園",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "19.5",
+        "type": "住宅大樓",
+        "square": "36.40",
+        "square_price": 63.13,
+        "total_price": "2298 ",
+        "search": [
+            "湯泉二期(湯泉美地)",
+            "近捷運新北捷新和國小站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.5",
+        "type": "透天厝",
+        "square": "71.65",
+        "square_price": 34.72,
+        "total_price": "2488 ",
+        "search": [
+            "綠中海二期"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.7",
+        "type": "住宅大樓",
+        "square": "37.00",
+        "square_price": 41.89,
+        "total_price": "1550 ",
+        "search": [
+            "早安康橋",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.2",
+        "type": "住宅大樓",
+        "square": "13.64",
+        "square_price": 95.16,
+        "total_price": "1298 ",
+        "search": [
+            "新上",
+            "碧潭有約",
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "33.3",
+        "type": "公寓",
+        "square": "50.85",
+        "square_price": 48.93,
+        "total_price": "2488 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "40.4",
+        "type": "公寓",
+        "square": "38.16",
+        "square_price": 24.32,
+        "total_price": "928 ",
+        "search": [
+            "玫瑰中國城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.8",
+        "type": "工廠",
+        "square": "30.62",
+        "square_price": 44.61,
+        "total_price": "1366 ",
+        "search": [
+            "寶福社區",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.6",
+        "type": "住宅大樓",
+        "square": "33.15",
+        "square_price": 60.27,
+        "total_price": "1998 ",
+        "search": [
+            "潤泰遠景21",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "19.5",
+        "type": "住宅大樓",
+        "square": "27.37",
+        "square_price": 68.69,
+        "total_price": "1880 ",
+        "search": [
+            "新上",
+            "湯泉二期(湯泉美地)",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "47.35",
+        "square_price": 81.94,
+        "total_price": "3880 ",
+        "search": [
+            "新上",
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.4",
+        "type": "住宅大樓",
+        "square": "33.06",
+        "square_price": 54.08,
+        "total_price": "1788 ",
+        "search": [
+            "新上",
+            "上碧潭",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.8",
+        "type": "公寓",
+        "square": "25.22",
+        "square_price": 29.26,
+        "total_price": "738 ",
+        "search": [
+            "新上"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.4",
+        "type": "公寓",
+        "square": "26.13",
+        "square_price": 27.86,
+        "total_price": "728 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "31.0",
+        "type": "華廈",
+        "square": "29.86",
+        "square_price": 39.85,
+        "total_price": "1190 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "19.5",
+        "type": "住宅大樓",
+        "square": "79.53",
+        "square_price": 54.7,
+        "total_price": "4350 ",
+        "search": [
+            "新上",
+            "湯泉二期(湯泉美地)",
+            "近捷運新北捷新和國小站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "73.70",
+        "square_price": 64.86,
+        "total_price": "4780 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.4",
+        "type": "住宅大樓",
+        "square": "46.46",
+        "square_price": 55.92,
+        "total_price": "2598 ",
+        "search": [
+            "天翼",
+            "近捷運七張站",
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "62.35",
+        "square_price": 60.95,
+        "total_price": "3800 ",
+        "search": [
+            "上河圖",
+            "近捷運大坪林站",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "33.2",
+        "type": "公寓",
+        "square": "56.16",
+        "square_price": 17.79,
+        "total_price": "999 ",
+        "search": [
+            "新上",
+            "黎明清境"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "33.4",
+        "type": "華廈",
+        "square": "56.35",
+        "square_price": 33.36,
+        "total_price": "1880 ",
+        "search": [
+            "新上",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.6",
+        "type": "住宅大樓",
+        "square": "99.50",
+        "square_price": 43.9,
+        "total_price": "4368 ",
+        "search": [
+            "江坡華城C區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.8",
+        "type": "公寓",
+        "square": "27.20",
+        "square_price": 27.94,
+        "total_price": "760 ",
+        "search": [
+            "新上"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.9",
+        "type": "住宅大樓",
+        "square": "53.39",
+        "square_price": 28.47,
+        "total_price": "1520 ",
+        "search": [
+            "達觀鎮A2",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "63.67",
+        "square_price": 62.79,
+        "total_price": "3998 ",
+        "search": [
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.6",
+        "type": "住宅大樓",
+        "square": "50.11",
+        "square_price": 67.45,
+        "total_price": "3380 ",
+        "search": [
+            "福華天下",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.2",
+        "type": "住宅大樓",
+        "square": "63.51",
+        "square_price": 58.23,
+        "total_price": "3698 ",
+        "search": [
+            "園頂",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.4",
+        "type": "公寓",
+        "square": "33.31",
+        "square_price": 35.97,
+        "total_price": "1198 ",
+        "search": [
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "30.0",
+        "type": "華廈",
+        "square": "42.81",
+        "square_price": 34.06,
+        "total_price": "1458 ",
+        "search": [
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.8",
+        "type": "公寓",
+        "square": "27.13",
+        "square_price": 32.81,
+        "total_price": "890 ",
+        "search": [
+            "新上",
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.8",
+        "type": "住宅大樓",
+        "square": "56.65",
+        "square_price": 52.6,
+        "total_price": "2980 ",
+        "search": [
+            "新上",
+            "天闊",
+            "近捷運新店站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.6",
+        "type": "住宅大樓",
+        "square": "52.86",
+        "square_price": 52.74,
+        "total_price": "2788 ",
+        "search": [
+            "新上",
+            "將捷家和",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.1",
+        "type": "華廈",
+        "square": "52.27",
+        "square_price": 32.29,
+        "total_price": "1688 ",
+        "search": [
+            "新上",
+            "伴山別墅(一期)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "93.59",
+        "square_price": 53.4,
+        "total_price": "4998 ",
+        "search": [
+            "新上",
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.2",
+        "type": "透天厝",
+        "square": "59.46",
+        "square_price": 30.07,
+        "total_price": "1788 ",
+        "search": [
+            "新上",
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "33.0",
+        "type": "公寓",
+        "square": "44.21",
+        "square_price": 28.95,
+        "total_price": "1280 ",
+        "search": [
+            "黎明清境"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "33.9",
+        "type": "透天厝",
+        "square": "100.04",
+        "square_price": 39.78,
+        "total_price": "3980 ",
+        "search": [
+            "大地世紀別墅",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.7",
+        "type": "透天厝",
+        "square": "34.19",
+        "square_price": 43.58,
+        "total_price": "1490 ",
+        "search": [
+            "台北小城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.6",
+        "type": "住宅大樓",
+        "square": "54.63",
+        "square_price": 64.07,
+        "total_price": "3500 ",
+        "search": [
+            "美河市",
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "39.43",
+        "square_price": 75.58,
+        "total_price": "2980 ",
+        "search": [
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "12.8",
+        "type": "住宅大樓",
+        "square": "77.11",
+        "square_price": 64.82,
+        "total_price": "4998 ",
+        "search": [
+            "MY WAY(合環御景)",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.2",
+        "type": "住宅大樓",
+        "square": "44.70",
+        "square_price": 63.76,
+        "total_price": "2850 ",
+        "search": [
+            "園頂",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.2",
+        "type": "住宅大樓",
+        "square": "53.67",
+        "square_price": 51.8,
+        "total_price": "2780 ",
+        "search": [
+            "園頂",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "40.43",
+        "square_price": 71.68,
+        "total_price": "2898 ",
+        "search": [
+            "新上",
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.5",
+        "type": "公寓",
+        "square": "31.61",
+        "square_price": 21.77,
+        "total_price": "688 ",
+        "search": [
+            "錦秀社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "19.5",
+        "type": "住宅大樓",
+        "square": "73.75",
+        "square_price": 54.07,
+        "total_price": "3988 ",
+        "search": [
+            "湯泉二期(湯泉美地)",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.1",
+        "type": "透天厝",
+        "square": "49.66",
+        "square_price": 47.93,
+        "total_price": "2380 ",
+        "search": [
+            "頂好社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.7",
+        "type": "住宅大樓",
+        "square": "58.20",
+        "square_price": 51.2,
+        "total_price": "2980 ",
+        "search": [
+            "康和春秋",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.7",
+        "type": "華廈",
+        "square": "44.79",
+        "square_price": 35.28,
+        "total_price": "1580 ",
+        "search": [
+            "新上",
+            "璦丁堡",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "32.0",
+        "type": "公寓",
+        "square": "53.32",
+        "square_price": 29.07,
+        "total_price": "1550 ",
+        "search": [
+            "大千豪景"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.1",
+        "type": "透天厝",
+        "square": "60.73",
+        "square_price": 34.55,
+        "total_price": "2098 ",
+        "search": [
+            "大地世紀別墅"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.3",
+        "type": "公寓",
+        "square": "44.09",
+        "square_price": 44.91,
+        "total_price": "1980 ",
+        "search": [
+            "北新天下",
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "44.6",
+        "type": "公寓",
+        "square": "30.16",
+        "square_price": 41.45,
+        "total_price": "1250 ",
+        "search": [
+            "寶福社區",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "57.98",
+        "square_price": 51.19,
+        "total_price": "2968 ",
+        "search": [
+            "大鵬華城",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "49.22",
+        "square_price": 45.27,
+        "total_price": "2228 ",
+        "search": [
+            "大鵬華城",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "96.90",
+        "square_price": 51.39,
+        "total_price": "4980 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "97.18",
+        "square_price": 45.07,
+        "total_price": "4380 ",
+        "search": [
+            "大鵬華城",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.8",
+        "type": "住宅大樓",
+        "square": "123.64",
+        "square_price": 48.37,
+        "total_price": "5980 ",
+        "search": [
+            "國礎富裔河",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.5",
+        "type": "透天厝",
+        "square": "334.53",
+        "square_price": 89.08,
+        "total_price": "29800 ",
+        "search": [
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "133.71",
+        "square_price": 49.36,
+        "total_price": "6600 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷陽光運動公園站",
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "1.7",
+        "type": "住宅大樓",
+        "square": "34.37",
+        "square_price": 57.61,
+        "total_price": "1980 ",
+        "search": [
+            "波爾多一期",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "39.05",
+        "square_price": 66.07,
+        "total_price": "2580 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.1",
+        "type": "住宅大樓",
+        "square": "56.51",
+        "square_price": 22.79,
+        "total_price": "1288 ",
+        "search": [
+            "達觀鎮A4",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "19.5",
+        "type": "住宅大樓",
+        "square": "36.55",
+        "square_price": 54.17,
+        "total_price": "1980 ",
+        "search": [
+            "湯泉二期(湯泉美地)",
+            "近捷運新北捷十四張站",
+            "近捷運新北捷新和國小站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "125.32",
+        "square_price": 47.72,
+        "total_price": "5980 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷陽光運動公園站",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "18.3",
+        "type": "住宅大樓",
+        "square": "84.24",
+        "square_price": 47.46,
+        "total_price": "3998 ",
+        "search": [
+            "小湯泉社區",
+            "近捷運新北捷十四張站",
+            "近捷運新北捷新和國小站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "142.72",
+        "square_price": 47.65,
+        "total_price": "6800 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷陽光運動公園站",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.9",
+        "type": "住宅大樓",
+        "square": "120.51",
+        "square_price": 51.45,
+        "total_price": "6200 ",
+        "search": [
+            "湯泉首席",
+            "近捷運小碧潭站",
+            "近捷運新北捷陽光運動公園站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "57.68",
+        "square_price": 46.6,
+        "total_price": "2688 ",
+        "search": [
+            "大鵬華城",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "39.05",
+        "square_price": 58.9,
+        "total_price": "2300 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷陽光運動公園站",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.5",
+        "type": "公寓",
+        "square": "62.23",
+        "square_price": 46.41,
+        "total_price": "2888 ",
+        "search": [
+            "青山鎮一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.3",
+        "type": "公寓",
+        "square": "29.16",
+        "square_price": 22.29,
+        "total_price": "650 ",
+        "search": [
+            "錦秀社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "透天厝",
+        "square": "229.77",
+        "square_price": 69.2,
+        "total_price": "15900 ",
+        "search": [
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.9",
+        "type": "住宅大樓",
+        "square": "46.75",
+        "square_price": 24.98,
+        "total_price": "1168 ",
+        "search": [
+            "達觀鎮A2",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "24.3",
+        "type": "住宅大樓",
+        "square": "45.32",
+        "square_price": 26.43,
+        "total_price": "1198 ",
+        "search": [
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.6",
+        "type": "華廈",
+        "square": "36.32",
+        "square_price": 45.65,
+        "total_price": "1658 ",
+        "search": [
+            "青森匯",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "5.5",
+        "type": "華廈",
+        "square": "71.09",
+        "square_price": 33.06,
+        "total_price": "2350 ",
+        "search": [
+            "伴山別墅(二期)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.5",
+        "type": "住宅大樓",
+        "square": "31.45",
+        "square_price": 47.63,
+        "total_price": "1498 ",
+        "search": [
+            "台北舊金山捷運年代"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.6",
+        "type": "住宅大樓",
+        "square": "77.89",
+        "square_price": 43.24,
+        "total_price": "3368 ",
+        "search": [
+            "將捷家和",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "49.4",
+        "type": "公寓",
+        "square": "29.35",
+        "square_price": 46.0,
+        "total_price": "1350 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "53.1",
+        "type": "公寓",
+        "square": "28.83",
+        "square_price": 92.96,
+        "total_price": "2680 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "49.7",
+        "type": "公寓",
+        "square": "29.40",
+        "square_price": 55.03,
+        "total_price": "1618 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.6",
+        "type": "住宅大樓",
+        "square": "102.89",
+        "square_price": 38.68,
+        "total_price": "3980 ",
+        "search": [
+            "江坡華城A區",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "4.8",
+        "type": "華廈",
+        "square": "76.48",
+        "square_price": 31.12,
+        "total_price": "2380 ",
+        "search": [
+            "伴山別墅(二期)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.5",
+        "type": "住宅大樓",
+        "square": "84.78",
+        "square_price": 61.31,
+        "total_price": "5198 ",
+        "search": [
+            "美河市",
+            "近捷運新店區公所站",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "71.69",
+        "square_price": 53.01,
+        "total_price": "3800 ",
+        "search": [
+            "上河圖",
+            "近捷運大坪林站",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "11.3",
+        "type": "住宅大樓",
+        "square": "51.11",
+        "square_price": 50.48,
+        "total_price": "2580 ",
+        "search": [
+            "博覽天下二期(梵谷特區)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.5",
+        "type": "透天厝",
+        "square": "123.14",
+        "square_price": 41.82,
+        "total_price": "5150 ",
+        "search": [
+            "敦南花園",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.1",
+        "type": "住宅大樓",
+        "square": "111.12",
+        "square_price": 48.49,
+        "total_price": "5388 ",
+        "search": [
+            "三圓羅馬",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "77.13",
+        "square_price": 42.63,
+        "total_price": "3288 ",
+        "search": [
+            "快樂世界",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.0",
+        "type": "透天厝",
+        "square": "35.23",
+        "square_price": 56.12,
+        "total_price": "1977 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "33.2",
+        "type": "透天厝",
+        "square": "130.35",
+        "square_price": 27.46,
+        "total_price": "3580 ",
+        "search": [
+            "黎明清境"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.7",
+        "type": "住宅大樓",
+        "square": "62.45",
+        "square_price": 51.24,
+        "total_price": "3200 ",
+        "search": [
+            "台北人",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "25.4",
+        "type": "住宅大樓",
+        "square": "34.46",
+        "square_price": 31.57,
+        "total_price": "1088 ",
+        "search": [
+            "新上",
+            "小錢當家",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.8",
+        "type": "住宅大樓",
+        "square": "143.13",
+        "square_price": 67.69,
+        "total_price": "9688 ",
+        "search": [
+            "園上園",
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.3",
+        "type": "透天厝",
+        "square": "76.69",
+        "square_price": 38.86,
+        "total_price": "2980 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "42.2",
+        "type": "公寓",
+        "square": "41.10",
+        "square_price": 57.91,
+        "total_price": "2380 ",
+        "search": [
+            "近捷運小碧潭站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.2",
+        "type": "住宅大樓",
+        "square": "83.02",
+        "square_price": 56.47,
+        "total_price": "4688 ",
+        "search": [
+            "上河圖",
+            "近捷運大坪林站",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.3",
+        "type": "公寓",
+        "square": "33.98",
+        "square_price": 46.73,
+        "total_price": "1588 ",
+        "search": [
+            "北新天下",
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "12.0",
+        "type": "透天厝",
+        "square": "138.54",
+        "square_price": 56.16,
+        "total_price": "7780 ",
+        "search": [
+            "國礎富裔山",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.9",
+        "type": "華廈",
+        "square": "32.83",
+        "square_price": 67.01,
+        "total_price": "2200 ",
+        "search": [
+            "HOYA",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.3",
+        "type": "透天厝",
+        "square": "33.99",
+        "square_price": 45.6,
+        "total_price": "1550 ",
+        "search": [
+            "台北小城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "50.0",
+        "type": "公寓",
+        "square": "19.51",
+        "square_price": 86.11,
+        "total_price": "1680 ",
+        "search": [
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.1",
+        "type": "住宅大樓",
+        "square": "21.81",
+        "square_price": 77.4,
+        "total_price": "1688 ",
+        "search": [
+            "碧潭有約",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.4",
+        "type": "公寓",
+        "square": "28.60",
+        "square_price": 34.9,
+        "total_price": "998 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "27.6",
+        "type": "華廈",
+        "square": "48.20",
+        "square_price": 41.47,
+        "total_price": "1999 ",
+        "search": [
+            "寶之林",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.1",
+        "type": "透天厝",
+        "square": "98.62",
+        "square_price": 50.5,
+        "total_price": "4980 ",
+        "search": [
+            "大地世紀別墅"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.6",
+        "type": "公寓",
+        "square": "25.95",
+        "square_price": 37.3,
+        "total_price": "968 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "18.0",
+        "type": "住宅大樓",
+        "square": "45.08",
+        "square_price": 68.32,
+        "total_price": "3080 ",
+        "search": [
+            "美麗人生",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.4",
+        "type": "辦公商業大樓",
+        "square": "57.52",
+        "square_price": 60.5,
+        "total_price": "3480 ",
+        "search": [
+            "美河市",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.9",
+        "type": "住宅大樓",
+        "square": "158.12",
+        "square_price": 55.65,
+        "total_price": "8800 ",
+        "search": [
+            "湯泉首席",
+            "近捷運小碧潭站",
+            "近捷運新北捷陽光運動公園站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "44.8",
+        "type": "公寓",
+        "square": "35.82",
+        "square_price": 51.65,
+        "total_price": "1850 ",
+        "search": [
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.2",
+        "type": "透天厝",
+        "square": "58.68",
+        "square_price": 37.46,
+        "total_price": "2198 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "32.4",
+        "type": "透天厝",
+        "square": "120.36",
+        "square_price": 22.27,
+        "total_price": "2680 ",
+        "search": [
+            "黎明清境"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "24.2",
+        "type": "華廈",
+        "square": "45.52",
+        "square_price": 65.47,
+        "total_price": "2980 ",
+        "search": [
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.8",
+        "type": "公寓",
+        "square": "32.34",
+        "square_price": 24.68,
+        "total_price": "798 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "26.4",
+        "type": "住宅大樓",
+        "square": "27.59",
+        "square_price": 72.06,
+        "total_price": "1988 ",
+        "search": [
+            "捷運新公館",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.0",
+        "type": "透天厝",
+        "square": "94.70",
+        "square_price": 33.26,
+        "total_price": "3150 ",
+        "search": [
+            "大學詩鄉",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "15.9",
+        "type": "透天厝",
+        "square": "101.15",
+        "square_price": 46.15,
+        "total_price": "4668 ",
+        "search": [
+            "正面大馬路",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "12.4",
+        "type": "住宅大樓",
+        "square": "62.89",
+        "square_price": 37.49,
+        "total_price": "2358 ",
+        "search": [
+            "新陛潭",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.3",
+        "type": "住宅大樓",
+        "square": "50.89",
+        "square_price": 29.44,
+        "total_price": "1498 ",
+        "search": [
+            "嶺秀天廈",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "51.2",
+        "type": "透天厝",
+        "square": "43.75",
+        "square_price": 195.43,
+        "total_price": "8550 ",
+        "search": [
+            "中央吉品",
+            "近捷運小碧潭站",
+            "近捷運新北捷十四張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.9",
+        "type": "透天厝",
+        "square": "97.00",
+        "square_price": 36.91,
+        "total_price": "3580 ",
+        "search": [
+            "大學詩鄉",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.3",
+        "type": "工廠",
+        "square": "25.57",
+        "square_price": 42.94,
+        "total_price": "1098 ",
+        "search": [
+            "寶福社區",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.2",
+        "type": "透天厝",
+        "square": "124.79",
+        "square_price": 36.77,
+        "total_price": "4588 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.6",
+        "type": "住宅大樓",
+        "square": "54.72",
+        "square_price": 57.89,
+        "total_price": "3168 ",
+        "search": [
+            "台北人",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.0",
+        "type": "住宅大樓",
+        "square": "53.09",
+        "square_price": 52.74,
+        "total_price": "2800 ",
+        "search": [
+            "勝旺有境",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.5",
+        "type": "透天厝",
+        "square": "70.31",
+        "square_price": 65.97,
+        "total_price": "4638 ",
+        "search": [
+            "青山鎮一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "54.4",
+        "type": "透天厝",
+        "square": "6.25",
+        "square_price": 156.8,
+        "total_price": "980 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "28.4",
+        "type": "透天厝",
+        "square": "127.44",
+        "square_price": 37.66,
+        "total_price": "4800 ",
+        "search": [
+            "大學詩鄉",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "44.5",
+        "type": "透天厝",
+        "square": "62.87",
+        "square_price": 28.63,
+        "total_price": "1800 ",
+        "search": [
+            "怡園別墅"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.6",
+        "type": "住宅大樓",
+        "square": "83.58",
+        "square_price": 71.38,
+        "total_price": "5966 ",
+        "search": [
+            "寶徠花園",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "33.1",
+        "type": "公寓",
+        "square": "47.24",
+        "square_price": 20.91,
+        "total_price": "988 ",
+        "search": [
+            "黎明清境"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.3",
+        "type": "住宅大樓",
+        "square": "74.19",
+        "square_price": 71.17,
+        "total_price": "5280 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷十四張站",
+            "近捷運新北捷陽光運動公園站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.3",
+        "type": "透天厝",
+        "square": "95.15",
+        "square_price": 60.96,
+        "total_price": "5800 ",
+        "search": [
+            "彩蝶",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "33.4",
+        "type": "公寓",
+        "square": "56.61",
+        "square_price": 23.85,
+        "total_price": "1350 ",
+        "search": [
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.1",
+        "type": "透天厝",
+        "square": "125.09",
+        "square_price": 86.34,
+        "total_price": "10800 ",
+        "search": [
+            "禾豐特區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "30.2",
+        "type": "公寓",
+        "square": "30.63",
+        "square_price": 35.91,
+        "total_price": "1100 ",
+        "search": [
+            "近捷運遠東工業區站(規劃中)"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.2",
+        "type": "透天厝",
+        "square": "33.96",
+        "square_price": 45.94,
+        "total_price": "1560 ",
+        "search": [
+            "大香山名人鄉村"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.1",
+        "type": "透天厝",
+        "square": "59.17",
+        "square_price": 36.34,
+        "total_price": "2150 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.1",
+        "type": "透天厝",
+        "square": "90.24",
+        "square_price": 35.33,
+        "total_price": "3188 ",
+        "search": [
+            "大學詩鄉",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.0",
+        "type": "住宅大樓",
+        "square": "53.31",
+        "square_price": 63.4,
+        "total_price": "3380 ",
+        "search": [
+            "日安台北",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.3",
+        "type": "住宅大樓",
+        "square": "45.20",
+        "square_price": 83.63,
+        "total_price": "3780 ",
+        "search": [
+            "涵碧賞",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "21.3",
+        "type": "住宅大樓",
+        "square": "44.15",
+        "square_price": 58.44,
+        "total_price": "2580 ",
+        "search": [
+            "中央河左岸",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.9",
+        "type": "住宅大樓",
+        "square": "26.91",
+        "square_price": 61.24,
+        "total_price": "1648 ",
+        "search": [
+            "博覽天下四期(高更特區)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.1",
+        "type": "住宅大樓",
+        "square": "54.14",
+        "square_price": 50.79,
+        "total_price": "2750 ",
+        "search": [
+            "勝旺有境"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "24.9",
+        "type": "透天厝",
+        "square": "62.01",
+        "square_price": 56.44,
+        "total_price": "3500 ",
+        "search": [
+            "新上",
+            "伴吾別墅",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.3",
+        "type": "公寓",
+        "square": "29.98",
+        "square_price": 33.02,
+        "total_price": "990 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "41.3",
+        "type": "公寓",
+        "square": "30.06",
+        "square_price": 29.91,
+        "total_price": "899 ",
+        "search": [
+            "美芝城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "8.1",
+        "type": "住宅大樓",
+        "square": "63.10",
+        "square_price": 63.07,
+        "total_price": "3980 ",
+        "search": [
+            "御中央",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.4",
+        "type": "公寓",
+        "square": "27.88",
+        "square_price": 31.92,
+        "total_price": "890 ",
+        "search": [
+            "美芝城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.6",
+        "type": "住宅大樓",
+        "square": "94.92",
+        "square_price": 35.29,
+        "total_price": "3350 ",
+        "search": [
+            "江坡華城C區",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.0",
+        "type": "透天厝",
+        "square": "56.10",
+        "square_price": 50.8,
+        "total_price": "2850 ",
+        "search": [
+            "台北小城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.4",
+        "type": "住宅大樓",
+        "square": "58.36",
+        "square_price": 61.34,
+        "total_price": "3580 ",
+        "search": [
+            "美河市",
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.7",
+        "type": "公寓",
+        "square": "29.37",
+        "square_price": 54.07,
+        "total_price": "1588 ",
+        "search": [
+            "近捷運新店站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "5.4",
+        "type": "住宅大樓",
+        "square": "54.24",
+        "square_price": 67.85,
+        "total_price": "3680 ",
+        "search": [
+            "御中央II期",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.3",
+        "type": "公寓",
+        "square": "34.22",
+        "square_price": 49.09,
+        "total_price": "1680 ",
+        "search": [
+            "翡翠社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.1",
+        "type": "透天厝",
+        "square": "77.70",
+        "square_price": 21.62,
+        "total_price": "1680 ",
+        "search": [
+            "花園新城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.4",
+        "type": "公寓",
+        "square": "23.42",
+        "square_price": 35.7,
+        "total_price": "836 ",
+        "search": [
+            "美芝城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.3",
+        "type": "公寓",
+        "square": "33.98",
+        "square_price": 45.91,
+        "total_price": "1560 ",
+        "search": [
+            "北新天下",
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "40.4",
+        "type": "公寓",
+        "square": "25.89",
+        "square_price": 37.39,
+        "total_price": "968 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "34.2",
+        "type": "公寓",
+        "square": "49.88",
+        "square_price": 23.82,
+        "total_price": "1188 ",
+        "search": [
+            "玫瑰中國城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.7",
+        "type": "華廈",
+        "square": "73.18",
+        "square_price": 47.83,
+        "total_price": "3500 ",
+        "search": [
+            "攬翠樓",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "48.6",
+        "type": "公寓",
+        "square": "29.32",
+        "square_price": 50.75,
+        "total_price": "1488 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.8",
+        "type": "公寓",
+        "square": "57.18",
+        "square_price": 50.37,
+        "total_price": "2880 ",
+        "search": [
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.1",
+        "type": "住宅大樓",
+        "square": "45.58",
+        "square_price": 65.56,
+        "total_price": "2988 ",
+        "search": [
+            "碧潭有約",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.6",
+        "type": "華廈",
+        "square": "43.05",
+        "square_price": 64.76,
+        "total_price": "2788 ",
+        "search": [
+            "華園",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.3",
+        "type": "華廈",
+        "square": "42.05",
+        "square_price": 38.0,
+        "total_price": "1598 ",
+        "search": [
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "49.8",
+        "type": "公寓",
+        "square": "24.73",
+        "square_price": 101.09,
+        "total_price": "2500 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "24.8",
+        "type": "華廈",
+        "square": "45.45",
+        "square_price": 61.61,
+        "total_price": "2800 ",
+        "search": [
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "21.9",
+        "type": "住宅大樓",
+        "square": "67.62",
+        "square_price": 47.03,
+        "total_price": "3180 ",
+        "search": [
+            "歐堡庭苑",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "49.3",
+        "type": "公寓",
+        "square": "26.34",
+        "square_price": 53.11,
+        "total_price": "1399 ",
+        "search": [
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "11.2",
+        "type": "透天厝",
+        "square": "158.52",
+        "square_price": 31.42,
+        "total_price": "4980 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "26.4",
+        "type": "透天厝",
+        "square": "69.28",
+        "square_price": 28.58,
+        "total_price": "1980 ",
+        "search": [
+            "彩蝶",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.3",
+        "type": "公寓",
+        "square": "30.83",
+        "square_price": 106.39,
+        "total_price": "3280 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.8",
+        "type": "住宅大樓",
+        "square": "63.35",
+        "square_price": 57.22,
+        "total_price": "3625 ",
+        "search": [
+            "天闊",
+            "近捷運新店站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.6",
+        "type": "華廈",
+        "square": "78.30",
+        "square_price": 25.29,
+        "total_price": "1980 ",
+        "search": [
+            "國賓山莊",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "40.6",
+        "type": "公寓",
+        "square": "33.77",
+        "square_price": 40.86,
+        "total_price": "1380 ",
+        "search": [
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "3.4",
+        "type": "住宅大樓",
+        "square": "30.50",
+        "square_price": 75.34,
+        "total_price": "2298 ",
+        "search": [
+            "碧波白",
+            "近捷運新店站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "5.9",
+        "type": "華廈",
+        "square": "50.96",
+        "square_price": 46.7,
+        "total_price": "2380 ",
+        "search": [
+            "伴山別墅(一期)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.7",
+        "type": "透天厝",
+        "square": "147.61",
+        "square_price": 58.86,
+        "total_price": "8688 ",
+        "search": [
+            "青山鎮一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.0",
+        "type": "公寓",
+        "square": "20.26",
+        "square_price": 47.78,
+        "total_price": "968 ",
+        "search": [
+            "近捷運新北捷新和國小站",
+            "近捷運環狀線景平站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.4",
+        "type": "透天厝",
+        "square": "121.76",
+        "square_price": 71.35,
+        "total_price": "8688 ",
+        "search": [
+            "華固華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.3",
+        "type": "住宅大樓",
+        "square": "55.72",
+        "square_price": 52.91,
+        "total_price": "2948 ",
+        "search": [
+            "天翼",
+            "近捷運七張站",
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "45.4",
+        "type": "公寓",
+        "square": "48.01",
+        "square_price": 47.49,
+        "total_price": "2280 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運大坪林站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.7",
+        "type": "華廈",
+        "square": "70.52",
+        "square_price": 35.42,
+        "total_price": "2498 ",
+        "search": [
+            "國賓山莊",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.8",
+        "type": "透天厝",
+        "square": "121.66",
+        "square_price": 54.25,
+        "total_price": "6600 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "17.1",
+        "type": "透天厝",
+        "square": "121.58",
+        "square_price": 24.59,
+        "total_price": "2990 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.7",
+        "type": "住宅大樓",
+        "square": "49.60",
+        "square_price": 24.15,
+        "total_price": "1198 ",
+        "search": [
+            "安祥山莊",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.0",
+        "type": "住宅大樓",
+        "square": "44.54",
+        "square_price": 39.96,
+        "total_price": "1780 ",
+        "search": [
+            "台北寧境一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.4",
+        "type": "透天厝",
+        "square": "65.61",
+        "square_price": 59.14,
+        "total_price": "3880 ",
+        "search": [
+            "青山鎮一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.5",
+        "type": "華廈",
+        "square": "50.52",
+        "square_price": 58.99,
+        "total_price": "2980 ",
+        "search": [
+            "中正新都",
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.6",
+        "type": "住宅大樓",
+        "square": "67.55",
+        "square_price": 51.64,
+        "total_price": "3488 ",
+        "search": [
+            "將捷家和",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.7",
+        "type": "住宅大樓",
+        "square": "97.41",
+        "square_price": 53.38,
+        "total_price": "5200 ",
+        "search": [
+            "天闊",
+            "近捷運新店站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.0",
+        "type": "公寓",
+        "square": "24.54",
+        "square_price": 39.93,
+        "total_price": "980 ",
+        "search": [
+            "錦園",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "15.2",
+        "type": "辦公商業大樓",
+        "square": "38.12",
+        "square_price": 41.66,
+        "total_price": "1588 ",
+        "search": [
+            "美麗新天地",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.2",
+        "type": "透天厝",
+        "square": "59.17",
+        "square_price": 32.62,
+        "total_price": "1930 ",
+        "search": [
+            "綠中海一期"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "21.0",
+        "type": "華廈",
+        "square": "41.63",
+        "square_price": 64.86,
+        "total_price": "2700 ",
+        "search": [
+            "雅典花園華廈",
+            "近捷運大坪林站",
+            "近捷運景美站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.1",
+        "type": "公寓",
+        "square": "33.96",
+        "square_price": 35.28,
+        "total_price": "1198 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "29.6",
+        "type": "其他",
+        "square": "33.61",
+        "square_price": 55.04,
+        "total_price": "1850 ",
+        "search": [
+            "寶中大廈",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.4",
+        "type": "透天厝",
+        "square": "97.31",
+        "square_price": 28.26,
+        "total_price": "2750 ",
+        "search": [
+            "錦秀社區",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.7",
+        "type": "華廈",
+        "square": "76.34",
+        "square_price": 29.87,
+        "total_price": "2280 ",
+        "search": [
+            "國賓山莊",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "32.2",
+        "type": "公寓",
+        "square": "54.18",
+        "square_price": 18.42,
+        "total_price": "998 ",
+        "search": [
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.2",
+        "type": "透天厝",
+        "square": "106.45",
+        "square_price": 42.65,
+        "total_price": "4540 ",
+        "search": [
+            "四季春",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "22.9",
+        "type": "華廈",
+        "square": "65.82",
+        "square_price": 57.43,
+        "total_price": "3780 ",
+        "search": [
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.1",
+        "type": "公寓",
+        "square": "28.86",
+        "square_price": 53.71,
+        "total_price": "1550 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.4",
+        "type": "其他",
+        "square": "28.69",
+        "square_price": 52.21,
+        "total_price": "1498 ",
+        "search": [
+            "上碧潭",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.3",
+        "type": "住宅大樓",
+        "square": "46.12",
+        "square_price": 25.33,
+        "total_price": "1168 ",
+        "search": [
+            "綠野鴻福(大F)"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "11.4",
+        "type": "住宅大樓",
+        "square": "82.02",
+        "square_price": 65.53,
+        "total_price": "5375 ",
+        "search": [
+            "長虹峰華",
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "22.3",
+        "type": "透天厝",
+        "square": "214.49",
+        "square_price": 78.33,
+        "total_price": "16800 ",
+        "search": [
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.2",
+        "type": "透天厝",
+        "square": "39.33",
+        "square_price": 43.22,
+        "total_price": "1700 ",
+        "search": [
+            "大香山名人鄉村"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "11.2",
+        "type": "住宅大樓",
+        "square": "126.11",
+        "square_price": 54.56,
+        "total_price": "6880 ",
+        "search": [
+            "養心殿",
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "3.4",
+        "type": "住宅大樓",
+        "square": "38.65",
+        "square_price": 76.58,
+        "total_price": "2960 ",
+        "search": [
+            "碧波白",
+            "近捷運新店站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.0",
+        "type": "住宅大樓",
+        "square": "26.81",
+        "square_price": 78.25,
+        "total_price": "2098 ",
+        "search": [
+            "碧潭有約",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "12.0",
+        "type": "透天厝",
+        "square": "135.43",
+        "square_price": 54.49,
+        "total_price": "7380 ",
+        "search": [
+            "國礎富裔山",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "36.7",
+        "type": "工廠",
+        "square": "39.36",
+        "square_price": 55.39,
+        "total_price": "2180 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "40.7",
+        "type": "公寓",
+        "square": "30.00",
+        "square_price": 33.3,
+        "total_price": "999 ",
+        "search": [
+            "美芝城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.4",
+        "type": "公寓",
+        "square": "26.84",
+        "square_price": 49.85,
+        "total_price": "1338 ",
+        "search": [
+            "雙城社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.1",
+        "type": "住宅大樓",
+        "square": "39.66",
+        "square_price": 47.4,
+        "total_price": "1880 ",
+        "search": [
+            "新上",
+            "勝旺有境",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "50.8",
+        "type": "透天厝",
+        "square": "32.13",
+        "square_price": 52.29,
+        "total_price": "1680 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "9.5",
+        "type": "透天厝",
+        "square": "169.06",
+        "square_price": 56.12,
+        "total_price": "9488 ",
+        "search": [
+            "華固華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.4",
+        "type": "透天厝",
+        "square": "106.45",
+        "square_price": 74.2,
+        "total_price": "7899 ",
+        "search": [
+            "華固華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.8",
+        "type": "住宅大樓",
+        "square": "86.37",
+        "square_price": 51.73,
+        "total_price": "4468 ",
+        "search": [
+            "園上園",
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "45.9",
+        "type": "公寓",
+        "square": "21.71",
+        "square_price": 86.6,
+        "total_price": "1880 ",
+        "search": [
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.4",
+        "type": "透天厝",
+        "square": "66.15",
+        "square_price": 47.62,
+        "total_price": "3150 ",
+        "search": [
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.7",
+        "type": "華廈",
+        "square": "39.53",
+        "square_price": 30.31,
+        "total_price": "1198 ",
+        "search": [
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.8",
+        "type": "住宅大樓",
+        "square": "43.38",
+        "square_price": 20.29,
+        "total_price": "880 ",
+        "search": [
+            "新鎮",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.2",
+        "type": "華廈",
+        "square": "44.13",
+        "square_price": 63.18,
+        "total_price": "2788 ",
+        "search": [
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "18.1",
+        "type": "住宅大樓",
+        "square": "51.58",
+        "square_price": 61.07,
+        "total_price": "3150 ",
+        "search": [
+            "美麗人生",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "4.4",
+        "type": "住宅大樓",
+        "square": "52.78",
+        "square_price": 54.57,
+        "total_price": "2880 ",
+        "search": [
+            "合陽天擎",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.7",
+        "type": "透天厝",
+        "square": "73.12",
+        "square_price": 54.43,
+        "total_price": "3980 ",
+        "search": [
+            "秀岡山莊"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.9",
+        "type": "透天厝",
+        "square": "33.99",
+        "square_price": 40.6,
+        "total_price": "1380 ",
+        "search": [
+            "台北小城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "4.4",
+        "type": "住宅大樓",
+        "square": "54.73",
+        "square_price": 52.62,
+        "total_price": "2880 ",
+        "search": [
+            "法樂",
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.6",
+        "type": "公寓",
+        "square": "30.53",
+        "square_price": 35.96,
+        "total_price": "1098 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "9.6",
+        "type": "其他",
+        "square": "119.83",
+        "square_price": 40.89,
+        "total_price": "4900 ",
+        "search": [
+            "國賓大苑",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.4",
+        "type": "住宅大樓",
+        "square": "113.05",
+        "square_price": 48.65,
+        "total_price": "5500 ",
+        "search": [
+            "維多利亞",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.2",
+        "type": "透天厝",
+        "square": "60.79",
+        "square_price": 32.57,
+        "total_price": "1980 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.3",
+        "type": "透天厝",
+        "square": "91.55",
+        "square_price": 34.82,
+        "total_price": "3188 ",
+        "search": [
+            "大學詩鄉",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.3",
+        "type": "辦公商業大樓",
+        "square": "28.12",
+        "square_price": 50.78,
+        "total_price": "1428 ",
+        "search": [
+            "上碧潭",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.6",
+        "type": "透天厝",
+        "square": "49.76",
+        "square_price": 31.75,
+        "total_price": "1580 ",
+        "search": [
+            "彩蝶"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.5",
+        "type": "公寓",
+        "square": "25.01",
+        "square_price": 35.91,
+        "total_price": "898 ",
+        "search": [
+            "新上"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "25.8",
+        "type": "辦公商業大樓",
+        "square": "44.02",
+        "square_price": 47.43,
+        "total_price": "2088 ",
+        "search": [
+            "十方山水二期",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.0",
+        "type": "透天厝",
+        "square": "49.14",
+        "square_price": 68.78,
+        "total_price": "3380 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "17.2",
+        "type": "透天厝",
+        "square": "60.79",
+        "square_price": 32.57,
+        "total_price": "1980 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.2",
+        "type": "公寓",
+        "square": "58.43",
+        "square_price": 19.68,
+        "total_price": "1150 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "36.9",
+        "type": "透天厝",
+        "square": "55.15",
+        "square_price": 44.97,
+        "total_price": "2480 ",
+        "search": [
+            "台北小城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.1",
+        "type": "透天厝",
+        "square": "56.89",
+        "square_price": 79.1,
+        "total_price": "4500 ",
+        "search": [
+            "錦園",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.9",
+        "type": "透天厝",
+        "square": "111.67",
+        "square_price": 69.85,
+        "total_price": "7800 ",
+        "search": [
+            "青山鎮一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.3",
+        "type": "公寓",
+        "square": "49.22",
+        "square_price": 21.7,
+        "total_price": "1068 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "9.2",
+        "type": "住宅大樓",
+        "square": "108.67",
+        "square_price": 78.22,
+        "total_price": "8500 ",
+        "search": [
+            "合環御寶",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.0",
+        "type": "透天厝",
+        "square": "41.68",
+        "square_price": 56.38,
+        "total_price": "2350 ",
+        "search": [
+            "台北小城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.1",
+        "type": "公寓",
+        "square": "66.61",
+        "square_price": 34.23,
+        "total_price": "2280 ",
+        "search": [
+            "新上",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "19.5",
+        "type": "住宅大樓",
+        "square": "31.38",
+        "square_price": 66.28,
+        "total_price": "2080 ",
+        "search": [
+            "新上",
+            "湯泉二期(湯泉美地)",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "4.0",
+        "type": "住宅大樓",
+        "square": "66.38",
+        "square_price": 70.5,
+        "total_price": "4680 ",
+        "search": [
+            "友座臻美",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "25.0",
+        "type": "華廈",
+        "square": "48.93",
+        "square_price": 58.86,
+        "total_price": "2880 ",
+        "search": [
+            "日安雅築",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.7",
+        "type": "公寓",
+        "square": "30.65",
+        "square_price": 52.14,
+        "total_price": "1598 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運遠東工業區站(規劃中)"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "50.4",
+        "type": "公寓",
+        "square": "17.74",
+        "square_price": 59.19,
+        "total_price": "1050 ",
+        "search": [
+            "新上",
+            "近捷運新店站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.4",
+        "type": "透天厝",
+        "square": "60.13",
+        "square_price": 41.24,
+        "total_price": "2480 ",
+        "search": [
+            "喜洋洋"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.6",
+        "type": "透天厝",
+        "square": "49.07",
+        "square_price": 28.49,
+        "total_price": "1398 ",
+        "search": [
+            "新上",
+            "彩蝶",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.1",
+        "type": "套房",
+        "square": "13.69",
+        "square_price": 91.31,
+        "total_price": "1250 ",
+        "search": [
+            "新上",
+            "碧潭有約",
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "3.5",
+        "type": "住宅大樓",
+        "square": "50.81",
+        "square_price": 78.33,
+        "total_price": "3980 ",
+        "search": [
+            "新上",
+            "近捷運新店站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.6",
+        "type": "住宅大樓",
+        "square": "48.54",
+        "square_price": 50.84,
+        "total_price": "2468 ",
+        "search": [
+            "台北人",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "49.30",
+        "square_price": 63.61,
+        "total_price": "3136 ",
+        "search": [
+            "新上",
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "50.1",
+        "type": "公寓",
+        "square": "31.29",
+        "square_price": 56.5,
+        "total_price": "1768 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.9",
+        "type": "公寓",
+        "square": "24.53",
+        "square_price": 34.65,
+        "total_price": "850 ",
+        "search": [
+            "新上",
+            "大慶社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "44.6",
+        "type": "公寓",
+        "square": "29.67",
+        "square_price": 43.41,
+        "total_price": "1288 ",
+        "search": [
+            "寶福社區",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.6",
+        "type": "住宅大樓",
+        "square": "27.59",
+        "square_price": 75.68,
+        "total_price": "2088 ",
+        "search": [
+            "捷運新公館",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "39.55",
+        "square_price": 75.35,
+        "total_price": "2980 ",
+        "search": [
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.8",
+        "type": "公寓",
+        "square": "27.77",
+        "square_price": 27.3,
+        "total_price": "758 ",
+        "search": [
+            "新上"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.3",
+        "type": "住宅大樓",
+        "square": "48.61",
+        "square_price": 42.95,
+        "total_price": "2088 ",
+        "search": [
+            "大鵬華城",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.8",
+        "type": "住宅大樓",
+        "square": "123.64",
+        "square_price": 45.94,
+        "total_price": "5680 ",
+        "search": [
+            "國礎富裔河",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "24.3",
+        "type": "住宅大樓",
+        "square": "76.54",
+        "square_price": 29.79,
+        "total_price": "2280 ",
+        "search": [
+            "新上",
+            "達觀鎮B7",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.1",
+        "type": "華廈",
+        "square": "54.18",
+        "square_price": 41.53,
+        "total_price": "2250 ",
+        "search": [
+            "21 CITY",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "32.4",
+        "type": "華廈",
+        "square": "36.98",
+        "square_price": 69.82,
+        "total_price": "2582 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運遠東工業區站(規劃中)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.0",
+        "type": "住宅大樓",
+        "square": "143.60",
+        "square_price": 65.11,
+        "total_price": "9350 ",
+        "search": [
+            "國泰雙璽",
+            "近捷運新店區公所站",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "32.3",
+        "type": "公寓",
+        "square": "39.86",
+        "square_price": 19.27,
+        "total_price": "768 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "17.3",
+        "type": "透天厝",
+        "square": "59.51",
+        "square_price": 43.66,
+        "total_price": "2598 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.1",
+        "type": "住宅大樓",
+        "square": "45.35",
+        "square_price": 49.61,
+        "total_price": "2250 ",
+        "search": [
+            "i漂亮",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "4.9",
+        "type": "透天厝",
+        "square": "87.69",
+        "square_price": 34.19,
+        "total_price": "2998 ",
+        "search": [
+            "伴山別墅(二期)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.6",
+        "type": "住宅大樓",
+        "square": "42.79",
+        "square_price": 62.82,
+        "total_price": "2688 ",
+        "search": [
+            "雙重奏二代",
+            "近捷運新店區公所站",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "11.7",
+        "type": "透天厝",
+        "square": "132.54",
+        "square_price": 101.85,
+        "total_price": "13499 ",
+        "search": [
+            "青山鎮二期三區",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.8",
+        "type": "公寓",
+        "square": "27.79",
+        "square_price": 71.97,
+        "total_price": "2000 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "48.1",
+        "type": "公寓",
+        "square": "25.88",
+        "square_price": 81.14,
+        "total_price": "2100 ",
+        "search": [
+            "近捷運小碧潭站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.1",
+        "type": "住宅大樓",
+        "square": "39.77",
+        "square_price": 41.74,
+        "total_price": "1660 ",
+        "search": [
+            "浪漫貴族",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "24.8",
+        "type": "華廈",
+        "square": "58.99",
+        "square_price": 53.91,
+        "total_price": "3180 ",
+        "search": [
+            "近捷運小碧潭站",
+            "近捷運新北捷陽光運動公園站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.2",
+        "type": "公寓",
+        "square": "52.00",
+        "square_price": 43.85,
+        "total_price": "2280 ",
+        "search": [
+            "遠東雙星",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "33.9",
+        "type": "透天厝",
+        "square": "75.20",
+        "square_price": 35.74,
+        "total_price": "2688 ",
+        "search": [
+            "台北小城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.3",
+        "type": "公寓",
+        "square": "34.80",
+        "square_price": 38.94,
+        "total_price": "1355 ",
+        "search": [
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.1",
+        "type": "公寓",
+        "square": "29.23",
+        "square_price": 34.18,
+        "total_price": "999 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "20.7",
+        "type": "透天厝",
+        "square": "95.34",
+        "square_price": 57.69,
+        "total_price": "5500 ",
+        "search": [
+            "秀岡山莊"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "30.8",
+        "type": "住宅大樓",
+        "square": "46.35",
+        "square_price": 42.72,
+        "total_price": "1980 ",
+        "search": [
+            "台北國寶",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.6",
+        "type": "公寓",
+        "square": "31.57",
+        "square_price": 27.49,
+        "total_price": "868 ",
+        "search": [
+            "玫瑰中國城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.6",
+        "type": "住宅大樓",
+        "square": "150.08",
+        "square_price": 66.5,
+        "total_price": "9980 ",
+        "search": [
+            "寶徠花園",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.6",
+        "type": "住宅大樓",
+        "square": "99.18",
+        "square_price": 67.55,
+        "total_price": "6700 ",
+        "search": [
+            "寶徠花園",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "15.8",
+        "type": "住宅大樓",
+        "square": "30.27",
+        "square_price": 55.5,
+        "total_price": "1680 ",
+        "search": [
+            "有富欣殿",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.9",
+        "type": "住宅大樓",
+        "square": "17.95",
+        "square_price": 32.31,
+        "total_price": "580 ",
+        "search": [
+            "達觀鎮"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "48.7",
+        "type": "公寓",
+        "square": "29.99",
+        "square_price": 52.02,
+        "total_price": "1560 ",
+        "search": [
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "44.4",
+        "type": "公寓",
+        "square": "41.75",
+        "square_price": 45.03,
+        "total_price": "1880 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.7",
+        "type": "住宅大樓",
+        "square": "36.31",
+        "square_price": 60.26,
+        "total_price": "2188 ",
+        "search": [
+            "新上",
+            "潤泰遠景21",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.3",
+        "type": "公寓",
+        "square": "42.34",
+        "square_price": 36.92,
+        "total_price": "1563 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "37.6",
+        "type": "公寓",
+        "square": "32.72",
+        "square_price": 45.84,
+        "total_price": "1500 ",
+        "search": [
+            "喜來登社區A",
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.5",
+        "type": "住宅大樓",
+        "square": "60.21",
+        "square_price": 46.17,
+        "total_price": "2780 ",
+        "search": [
+            "台北人",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.9",
+        "type": "辦公商業大樓",
+        "square": "33.35",
+        "square_price": 40.78,
+        "total_price": "1360 ",
+        "search": [
+            "陽光PARK",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "15.2",
+        "type": "辦公商業大樓",
+        "square": "47.53",
+        "square_price": 30.68,
+        "total_price": "1458 ",
+        "search": [
+            "綠灣",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.4",
+        "type": "住宅大樓",
+        "square": "53.02",
+        "square_price": 27.91,
+        "total_price": "1480 ",
+        "search": [
+            "觀天下",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.0",
+        "type": "公寓",
+        "square": "25.52",
+        "square_price": 54.08,
+        "total_price": "1380 ",
+        "search": [
+            "錦園",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.7",
+        "type": "住宅大樓",
+        "square": "32.30",
+        "square_price": 24.4,
+        "total_price": "788 ",
+        "search": [
+            "新鎮",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.5",
+        "type": "透天厝",
+        "square": "56.34",
+        "square_price": 35.11,
+        "total_price": "1978 ",
+        "search": [
+            "綠中海二期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.1",
+        "type": "住宅大樓",
+        "square": "14.71",
+        "square_price": 94.83,
+        "total_price": "1395 ",
+        "search": [
+            "碧潭有約",
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.1",
+        "type": "透天厝",
+        "square": "27.21",
+        "square_price": 39.69,
+        "total_price": "1080 ",
+        "search": [
+            "頂好社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.3",
+        "type": "透天厝",
+        "square": "95.78",
+        "square_price": 44.37,
+        "total_price": "4250 ",
+        "search": [
+            "玫瑰中國城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "53.2",
+        "type": "公寓",
+        "square": "28.83",
+        "square_price": 52.72,
+        "total_price": "1520 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.4",
+        "type": "透天厝",
+        "square": "103.26",
+        "square_price": 23.0,
+        "total_price": "2375 ",
+        "search": [
+            "錦秀社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.3",
+        "type": "透天厝",
+        "square": "120.69",
+        "square_price": 56.24,
+        "total_price": "6788 ",
+        "search": [
+            "敦南花園"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.4",
+        "type": "住宅大樓",
+        "square": "46.45",
+        "square_price": 55.93,
+        "total_price": "2598 ",
+        "search": [
+            "天翼",
+            "近捷運七張站",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "21.0",
+        "type": "住宅大樓",
+        "square": "23.22",
+        "square_price": 68.82,
+        "total_price": "1598 ",
+        "search": [
+            "春風特區",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.7",
+        "type": "公寓",
+        "square": "29.19",
+        "square_price": 56.87,
+        "total_price": "1660 ",
+        "search": [
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.1",
+        "type": "廠辦",
+        "square": "36.99",
+        "square_price": 38.88,
+        "total_price": "1438 ",
+        "search": [
+            "陽光PARK"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.1",
+        "type": "住宅大樓",
+        "square": "44.20",
+        "square_price": 90.23,
+        "total_price": "3988 ",
+        "search": [
+            "新上",
+            "碧潭有約",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.7",
+        "type": "公寓",
+        "square": "29.78",
+        "square_price": 53.73,
+        "total_price": "1600 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.3",
+        "type": "公寓",
+        "square": "28.58",
+        "square_price": 55.28,
+        "total_price": "1580 ",
+        "search": [
+            "新上",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "32.3",
+        "type": "公寓",
+        "square": "46.95",
+        "square_price": 42.17,
+        "total_price": "1980 ",
+        "search": [
+            "星殿",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.3",
+        "type": "公寓",
+        "square": "24.51",
+        "square_price": 48.96,
+        "total_price": "1200 ",
+        "search": [
+            "新上",
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.1",
+        "type": "透天厝",
+        "square": "76.69",
+        "square_price": 20.84,
+        "total_price": "1598 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "28.1",
+        "type": "住宅大樓",
+        "square": "32.71",
+        "square_price": 45.25,
+        "total_price": "1480 ",
+        "search": [
+            "新店清境",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "22.5",
+        "type": "華廈",
+        "square": "59.50",
+        "square_price": 65.21,
+        "total_price": "3880 ",
+        "search": [
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.4",
+        "type": "住宅大樓",
+        "square": "30.94",
+        "square_price": 47.83,
+        "total_price": "1480 ",
+        "search": [
+            "新店清境",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.2",
+        "type": "透天厝",
+        "square": "70.11",
+        "square_price": 38.34,
+        "total_price": "2688 ",
+        "search": [
+            "潭之鄉"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "11.9",
+        "type": "透天厝",
+        "square": "150.38",
+        "square_price": 42.89,
+        "total_price": "6450 ",
+        "search": [
+            "國礎富裔山"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.4",
+        "type": "公寓",
+        "square": "25.82",
+        "square_price": 31.76,
+        "total_price": "820 ",
+        "search": [
+            "美芝城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.4",
+        "type": "公寓",
+        "square": "25.82",
+        "square_price": 77.38,
+        "total_price": "1998 ",
+        "search": [
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.3",
+        "type": "店面",
+        "square": "28.63",
+        "square_price": 64.62,
+        "total_price": "1850 ",
+        "search": [
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.7",
+        "type": "透天厝",
+        "square": "37.14",
+        "square_price": 42.54,
+        "total_price": "1580 ",
+        "search": [
+            "台北小城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "40.1",
+        "type": "公寓",
+        "square": "25.87",
+        "square_price": 55.28,
+        "total_price": "1430 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.6",
+        "type": "店面",
+        "square": "40.18",
+        "square_price": 161.77,
+        "total_price": "6500 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "正面大馬路"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.6",
+        "type": "辦公商業大樓",
+        "square": "66.44",
+        "square_price": 74.95,
+        "total_price": "4980 ",
+        "search": [
+            "首相官邸",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "出租中",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "52.3",
+        "type": "透天厝",
+        "square": "34.79",
+        "square_price": 171.89,
+        "total_price": "5980 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.9",
+        "type": "公寓",
+        "square": "34.68",
+        "square_price": 48.04,
+        "total_price": "1666 ",
+        "search": [
+            "大豐松園",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "15.3",
+        "type": "住宅大樓",
+        "square": "44.23",
+        "square_price": 78.68,
+        "total_price": "3480 ",
+        "search": [
+            "環遊市晶華館",
+            "近捷運七張站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.5",
+        "type": "公寓",
+        "square": "26.47",
+        "square_price": 52.13,
+        "total_price": "1380 ",
+        "search": [
+            "新上",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "8.1",
+        "type": "住宅大樓",
+        "square": "47.44",
+        "square_price": 58.6,
+        "total_price": "2780 ",
+        "search": [
+            "極麗",
+            "近捷運新店站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "46.00",
+        "square_price": 70.85,
+        "total_price": "3259 ",
+        "search": [
+            "宏普中央公園",
+            "近捷運環狀線十四張站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.6",
+        "type": "住宅大樓",
+        "square": "53.30",
+        "square_price": 61.54,
+        "total_price": "3280 ",
+        "search": [
+            "台北公館",
+            "近捷運大坪林站",
+            "近捷運景美站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.0",
+        "type": "辦公商業大樓",
+        "square": "40.89",
+        "square_price": 48.13,
+        "total_price": "1968 ",
+        "search": [
+            "十方山水二期",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.6",
+        "type": "透天厝",
+        "square": "67.56",
+        "square_price": 34.01,
+        "total_price": "2298 ",
+        "search": [
+            "新上",
+            "綠中海二期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "4.5",
+        "type": "華廈",
+        "square": "83.82",
+        "square_price": 30.78,
+        "total_price": "2580 ",
+        "search": [
+            "新上",
+            "伴山別墅(二期)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.4",
+        "type": "華廈",
+        "square": "34.09",
+        "square_price": 52.74,
+        "total_price": "1798 ",
+        "search": [
+            "新上",
+            "泰隆金像獎",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.5",
+        "type": "住宅大樓",
+        "square": "133.71",
+        "square_price": 46.37,
+        "total_price": "6200 ",
+        "search": [
+            "湯泉一期(湯泉櫻花)",
+            "近捷運新北捷陽光運動公園站",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "24.5",
+        "type": "華廈",
+        "square": "35.29",
+        "square_price": 28.28,
+        "total_price": "998 ",
+        "search": [
+            "達觀鎮A3"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "45.18",
+        "square_price": 72.33,
+        "total_price": "3268 ",
+        "search": [
+            "漢皇吾岳",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "30.13",
+        "square_price": 66.31,
+        "total_price": "1998 ",
+        "search": [
+            "漢皇吾岳",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "19.5",
+        "type": "住宅大樓",
+        "square": "162.65",
+        "square_price": 45.8,
+        "total_price": "7450 ",
+        "search": [
+            "湯泉二期(湯泉美地)",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "15.2",
+        "type": "辦公商業大樓",
+        "square": "52.11",
+        "square_price": 30.47,
+        "total_price": "1588 ",
+        "search": [
+            "綠灣",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "18.5",
+        "type": "華廈",
+        "square": "59.74",
+        "square_price": 53.57,
+        "total_price": "3200 ",
+        "search": [
+            "新上",
+            "大佳園",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.4",
+        "type": "住宅大樓",
+        "square": "62.39",
+        "square_price": 38.15,
+        "total_price": "2380 ",
+        "search": [
+            "新上",
+            "公崙華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.1",
+        "type": "住宅大樓",
+        "square": "46.74",
+        "square_price": 53.23,
+        "total_price": "2488 ",
+        "search": [
+            "博覽天下四期(高更特區)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "30.2",
+        "type": "辦公商業大樓",
+        "square": "34.84",
+        "square_price": 48.22,
+        "total_price": "1680 ",
+        "search": [
+            "新上",
+            "金運金"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.0",
+        "type": "透天厝",
+        "square": "65.55",
+        "square_price": 53.09,
+        "total_price": "3480 ",
+        "search": [
+            "美麗華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "8.1",
+        "type": "住宅大樓",
+        "square": "47.72",
+        "square_price": 56.16,
+        "total_price": "2680 ",
+        "search": [
+            "極麗",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.2",
+        "type": "住宅大樓",
+        "square": "86.68",
+        "square_price": 61.78,
+        "total_price": "5355 ",
+        "search": [
+            "中正川普",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "14.4",
+        "type": "住宅大樓",
+        "square": "98.55",
+        "square_price": 66.97,
+        "total_price": "6600 ",
+        "search": [
+            "新上",
+            "江陵誠",
+            "近捷運大坪林站",
+            "近捷運遠東工業區站(規劃中)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "53.45",
+        "square_price": 67.54,
+        "total_price": "3610 ",
+        "search": [
+            "國美德杰中央新村2",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.9",
+        "type": "公寓",
+        "square": "31.81",
+        "square_price": 48.04,
+        "total_price": "1528 ",
+        "search": [
+            "近捷運新北捷新和國小站",
+            "近捷運環狀線景平站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "20.9",
+        "type": "住宅大樓",
+        "square": "46.81",
+        "square_price": 35.25,
+        "total_price": "1650 ",
+        "search": [
+            "安居公教",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "3.5",
+        "type": "住宅大樓",
+        "square": "49.34",
+        "square_price": 70.29,
+        "total_price": "3468 ",
+        "search": [
+            "碧波白",
+            "近捷運新店站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.6",
+        "type": "住宅大樓",
+        "square": "91.55",
+        "square_price": 50.03,
+        "total_price": "4580 ",
+        "search": [
+            "將捷家和",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.7",
+        "type": "透天厝",
+        "square": "165.92",
+        "square_price": 59.06,
+        "total_price": "9800 ",
+        "search": [
+            "華固華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.6",
+        "type": "住宅大樓",
+        "square": "52.86",
+        "square_price": 48.81,
+        "total_price": "2580 ",
+        "search": [
+            "將捷家和",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.2",
+        "type": "住宅大樓",
+        "square": "45.03",
+        "square_price": 69.29,
+        "total_price": "3120 ",
+        "search": [
+            "國泰豐和",
+            "近捷運小碧潭站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.3",
+        "type": "住宅大樓",
+        "square": "23.20",
+        "square_price": 29.66,
+        "total_price": "688 ",
+        "search": [
+            "新上",
+            "綠野香坡(H區)"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "52.57",
+        "square_price": 64.3,
+        "total_price": "3380 ",
+        "search": [
+            "國泰豐和",
+            "近捷運小碧潭站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.3",
+        "type": "住宅大樓",
+        "square": "61.75",
+        "square_price": 53.25,
+        "total_price": "3288 ",
+        "search": [
+            "金吉名人",
+            "近捷運七張站",
+            "近捷運大坪林站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.4",
+        "type": "住宅大樓",
+        "square": "119.69",
+        "square_price": 39.94,
+        "total_price": "4780 ",
+        "search": [
+            "國賓大苑",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "51.7",
+        "type": "透天厝",
+        "square": "56.64",
+        "square_price": 96.89,
+        "total_price": "5488 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "18.8",
+        "type": "住宅大樓",
+        "square": "71.33",
+        "square_price": 64.49,
+        "total_price": "4600 ",
+        "search": [
+            "中央首相",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.2",
+        "type": "其他",
+        "square": "25.61",
+        "square_price": 38.58,
+        "total_price": "988 ",
+        "search": [
+            "寶福社區",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.2",
+        "type": "透天厝",
+        "square": "59.46",
+        "square_price": 30.41,
+        "total_price": "1808 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.5",
+        "type": "住宅大樓",
+        "square": "43.88",
+        "square_price": 54.24,
+        "total_price": "2380 ",
+        "search": [
+            "溫哥華",
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.3",
+        "type": "透天厝",
+        "square": "166.34",
+        "square_price": 21.04,
+        "total_price": "3500 ",
+        "search": [
+            "新上"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "10.2",
+        "type": "透天厝",
+        "square": "171.29",
+        "square_price": 43.79,
+        "total_price": "7500 ",
+        "search": [
+            "新上"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "21.1",
+        "type": "住宅大樓",
+        "square": "54.12",
+        "square_price": 34.33,
+        "total_price": "1858 ",
+        "search": [
+            "安居公教",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.4",
+        "type": "華廈",
+        "square": "42.02",
+        "square_price": 34.51,
+        "total_price": "1450 ",
+        "search": [
+            "美麗國",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "11.2",
+        "type": "住宅大樓",
+        "square": "111.20",
+        "square_price": 68.96,
+        "total_price": "7668 ",
+        "search": [
+            "養心殿",
+            "近捷運新店區公所站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.0",
+        "type": "住宅大樓",
+        "square": "40.54",
+        "square_price": 69.07,
+        "total_price": "2800 ",
+        "search": [
+            "日安台北",
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.4",
+        "type": "公寓",
+        "square": "40.01",
+        "square_price": 22.74,
+        "total_price": "910 ",
+        "search": [
+            "新上"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.7",
+        "type": "住宅大樓",
+        "square": "65.69",
+        "square_price": 59.22,
+        "total_price": "3890 ",
+        "search": [
+            "新上",
+            "台北人",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "30.65",
+        "square_price": 66.75,
+        "total_price": "2046 ",
+        "search": [
+            "漢皇吾岳",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.9",
+        "type": "公寓",
+        "square": "40.78",
+        "square_price": 38.21,
+        "total_price": "1558 ",
+        "search": [
+            "大慶社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "40.5",
+        "type": "透天厝",
+        "square": "49.42",
+        "square_price": 74.46,
+        "total_price": "3680 ",
+        "search": [
+            "台北小城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.3",
+        "type": "透天厝",
+        "square": "129.79",
+        "square_price": 73.97,
+        "total_price": "9600 ",
+        "search": [
+            "華固華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.3",
+        "type": "公寓",
+        "square": "29.07",
+        "square_price": 57.79,
+        "total_price": "1680 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "23.6",
+        "type": "住宅大樓",
+        "square": "83.70",
+        "square_price": 78.71,
+        "total_price": "6588 ",
+        "search": [
+            "潤泰遠景21",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.1",
+        "type": "住宅大樓",
+        "square": "20.47",
+        "square_price": 92.23,
+        "total_price": "1888 ",
+        "search": [
+            "友座藏愛",
+            "近捷運新店區公所站",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.6",
+        "type": "透天厝",
+        "square": "73.21",
+        "square_price": 81.68,
+        "total_price": "5980 ",
+        "search": [
+            "大台北華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.1",
+        "type": "公寓",
+        "square": "40.89",
+        "square_price": 43.29,
+        "total_price": "1770 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "39.2",
+        "type": "透天厝",
+        "square": "36.93",
+        "square_price": 46.57,
+        "total_price": "1720 ",
+        "search": [
+            "台北小城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.3",
+        "type": "公寓",
+        "square": "57.82",
+        "square_price": 37.84,
+        "total_price": "2188 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "13.7",
+        "type": "透天厝",
+        "square": "215.56",
+        "square_price": 133.61,
+        "total_price": "28800 ",
+        "search": [
+            "大台北華城"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "42.1",
+        "type": "透天厝",
+        "square": "31.67",
+        "square_price": 56.84,
+        "total_price": "1800 ",
+        "search": [
+            "彩虹山莊"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.4",
+        "type": "辦公商業大樓",
+        "square": "147.03",
+        "square_price": 46.25,
+        "total_price": "6800 ",
+        "search": [
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "31.9",
+        "type": "公寓",
+        "square": "48.43",
+        "square_price": 30.56,
+        "total_price": "1480 ",
+        "search": [
+            "新上",
+            "大千豪景",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "45.5",
+        "type": "公寓",
+        "square": "27.95",
+        "square_price": 51.45,
+        "total_price": "1438 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "22.97",
+        "square_price": 76.19,
+        "total_price": "1750 ",
+        "search": [
+            "新上",
+            "宏普中央公園",
+            "近捷運環狀線十四張站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "2.7",
+        "type": "華廈",
+        "square": "24.10",
+        "square_price": 89.63,
+        "total_price": "2160 ",
+        "search": [
+            "新上",
+            "近捷運新店區公所站",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "22.4",
+        "type": "住宅大樓",
+        "square": "17.19",
+        "square_price": 46.42,
+        "total_price": "798 ",
+        "search": [
+            "新上",
+            "潭天",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "22.7",
+        "type": "住宅大樓",
+        "square": "40.81",
+        "square_price": 65.13,
+        "total_price": "2658 ",
+        "search": [
+            "龍邦新苑",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.6",
+        "type": "住宅大樓",
+        "square": "9.49",
+        "square_price": 91.46,
+        "total_price": "868 ",
+        "search": [
+            "新上",
+            "環遊市西華館",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "1.7",
+        "type": "住宅大樓",
+        "square": "36.32",
+        "square_price": 67.95,
+        "total_price": "2468 ",
+        "search": [
+            "新上",
+            "波爾多一期",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "94.90",
+        "square_price": 59.94,
+        "total_price": "5688 ",
+        "search": [
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "39.67",
+        "square_price": 80.16,
+        "total_price": "3180 ",
+        "search": [
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "29.81",
+        "square_price": 80.44,
+        "total_price": "2398 ",
+        "search": [
+            "新上",
+            "玉上園",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "18.6",
+        "type": "住宅大樓",
+        "square": "52.05",
+        "square_price": 63.36,
+        "total_price": "3298 ",
+        "search": [
+            "新上",
+            "冠德都會通",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "56.07",
+        "square_price": 65.1,
+        "total_price": "3650 ",
+        "search": [
+            "波爾多2樂菲莊園",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "28.60",
+        "square_price": 60.84,
+        "total_price": "1740 ",
+        "search": [
+            "波爾多2樂菲莊園",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "40.52",
+        "square_price": 66.34,
+        "total_price": "2688 ",
+        "search": [
+            "宏國大央北",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "34.69",
+        "square_price": 69.16,
+        "total_price": "2399 ",
+        "search": [
+            "宏國大央北",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "43.42",
+        "square_price": 66.33,
+        "total_price": "2880 ",
+        "search": [
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.6",
+        "type": "公寓",
+        "square": "45.65",
+        "square_price": 29.57,
+        "total_price": "1350 ",
+        "search": [
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運景美站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.5",
+        "type": "華廈",
+        "square": "45.66",
+        "square_price": 65.27,
+        "total_price": "2980 ",
+        "search": [
+            "近捷運小碧潭站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "19.6",
+        "type": "華廈",
+        "square": "62.74",
+        "square_price": 51.0,
+        "total_price": "3200 ",
+        "search": [
+            "新上",
+            "旺族",
+            "近捷運大坪林站",
+            "近捷運遠東工業區站(規劃中)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.1",
+        "type": "住宅大樓",
+        "square": "18.68",
+        "square_price": 61.56,
+        "total_price": "1150 ",
+        "search": [
+            "新上",
+            "名揚四海",
+            "近捷運新北捷新和國小站",
+            "近捷運環狀線秀朗橋站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "28.5",
+        "type": "住宅大樓",
+        "square": "38.24",
+        "square_price": 44.4,
+        "total_price": "1698 ",
+        "search": [
+            "新上",
+            "三元吉第",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "22.97",
+        "square_price": 95.25,
+        "total_price": "2188 ",
+        "search": [
+            "宏普中央公園",
+            "近捷運環狀線十四張站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "38.6",
+        "type": "公寓",
+        "square": "31.13",
+        "square_price": 40.15,
+        "total_price": "1250 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "店面",
+        "square": "38.08",
+        "square_price": 80.38,
+        "total_price": "3061 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.2",
+        "type": "透天厝",
+        "square": "31.07",
+        "square_price": 32.12,
+        "total_price": "998 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "50.8",
+        "type": "公寓",
+        "square": "26.15",
+        "square_price": 70.75,
+        "total_price": "1850 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "66.27",
+        "square_price": 67.9,
+        "total_price": "4500 ",
+        "search": [
+            "近捷運小碧潭站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "43.75",
+        "square_price": 56.69,
+        "total_price": "2480 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "39.38",
+        "square_price": 59.12,
+        "total_price": "2328 ",
+        "search": [
+            "將捷旅闊",
+            "近捷運小碧潭站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.3",
+        "type": "住宅大樓",
+        "square": "98.54",
+        "square_price": 57.64,
+        "total_price": "5680 ",
+        "search": [
+            "江陵春",
+            "近捷運大坪林站",
+            "近捷運遠東工業區站(規劃中)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "66.09",
+        "square_price": 69.42,
+        "total_price": "4588 ",
+        "search": [
+            "近捷運小碧潭站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.4",
+        "type": "透天厝",
+        "square": "69.28",
+        "square_price": 28.15,
+        "total_price": "1950 ",
+        "search": [
+            "彩蝶"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.1",
+        "type": "華廈",
+        "square": "35.82",
+        "square_price": 61.42,
+        "total_price": "2200 ",
+        "search": [
+            "新上",
+            "近捷運七張站",
+            "近捷運大坪林站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "13.3",
+        "type": "住宅大樓",
+        "square": "64.27",
+        "square_price": 68.27,
+        "total_price": "4388 ",
+        "search": [
+            "中央麗景",
+            "近捷運小碧潭站",
+            "近捷運新北捷陽光運動公園站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "41.68",
+        "square_price": 74.98,
+        "total_price": "3125 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "41.27",
+        "square_price": 72.4,
+        "total_price": "2988 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "25.79",
+        "square_price": 73.21,
+        "total_price": "1888 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "42.73",
+        "square_price": 60.57,
+        "total_price": "2588 ",
+        "search": [
+            "近捷運環狀線十四張站",
+            "近捷運新北捷十四張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "34.0",
+        "type": "華廈",
+        "square": "42.22",
+        "square_price": 94.27,
+        "total_price": "3980 ",
+        "search": [
+            "台北新廈",
+            "近捷運大坪林站",
+            "近捷運遠東工業區站(規劃中)",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "46.82",
+        "square_price": 59.12,
+        "total_price": "2768 ",
+        "search": [
+            "近捷運小碧潭站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "55.32",
+        "square_price": 65.44,
+        "total_price": "3620 ",
+        "search": [
+            "新上",
+            "宏盛心中央",
+            "近捷運小碧潭站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "33.72",
+        "square_price": 67.62,
+        "total_price": "2280 ",
+        "search": [
+            "宏普Garden Park中央公園II",
+            "近捷運環狀線十四張站",
+            "近捷運新北捷十四張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "32.27",
+        "square_price": 75.92,
+        "total_price": "2450 ",
+        "search": [
+            "宏普Garden Park中央公園II",
+            "近捷運環狀線十四張站",
+            "近捷運新北捷十四張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "37.12",
+        "square_price": 72.41,
+        "total_price": "2688 ",
+        "search": [
+            "近捷運小碧潭站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "35.7",
+        "type": "公寓",
+        "square": "35.07",
+        "square_price": 71.29,
+        "total_price": "2500 ",
+        "search": [
+            "大慶社區"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "32.84",
+        "square_price": 61.45,
+        "total_price": "2018 ",
+        "search": [
+            "宏普Garden Park中央公園II",
+            "近捷運環狀線十四張站",
+            "近捷運新北捷十四張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "37.2",
+        "type": "公寓",
+        "square": "37.55",
+        "square_price": 49.93,
+        "total_price": "1875 ",
+        "search": [
+            "名家二期",
+            "近捷運小碧潭站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "16.4",
+        "type": "套房",
+        "square": "11.19",
+        "square_price": 87.94,
+        "total_price": "984 ",
+        "search": [
+            "環遊市西華館",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "17.2",
+        "type": "華廈",
+        "square": "28.03",
+        "square_price": 35.25,
+        "total_price": "988 ",
+        "search": [
+            "綠中海一期",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "27.3",
+        "type": "公寓",
+        "square": "55.50",
+        "square_price": 33.33,
+        "total_price": "1850 ",
+        "search": [
+            "新上",
+            "石上清泉"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "44.9",
+        "type": "公寓",
+        "square": "35.94",
+        "square_price": 48.14,
+        "total_price": "1730 ",
+        "search": [
+            "新上",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.7",
+        "type": "工廠",
+        "square": "23.36",
+        "square_price": 54.79,
+        "total_price": "1280 ",
+        "search": [
+            "寶福社區",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "60.6",
+        "type": "透天厝",
+        "square": "37.93",
+        "square_price": 179.28,
+        "total_price": "6800 ",
+        "search": [
+            "近捷運新店站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.4",
+        "type": "公寓",
+        "square": "29.36",
+        "square_price": 50.68,
+        "total_price": "1488 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "0.3",
+        "type": "住宅大樓",
+        "square": "33.27",
+        "square_price": 66.07,
+        "total_price": "2198 ",
+        "search": [
+            "國泰豐和",
+            "近捷運小碧潭站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.8",
+        "type": "住宅大樓",
+        "square": "75.49",
+        "square_price": 59.61,
+        "total_price": "4500 ",
+        "search": [
+            "玉上園",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "26.85",
+        "square_price": 57.73,
+        "total_price": "1550 ",
+        "search": [
+            "波爾多2樂菲莊園",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.8",
+        "type": "住宅大樓",
+        "square": "109.08",
+        "square_price": 56.73,
+        "total_price": "6188 ",
+        "search": [
+            "新上",
+            "國礎富裔河",
+            "近捷運遠東工業區站(規劃中)",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "41.12",
+        "square_price": 65.37,
+        "total_price": "2688 ",
+        "search": [
+            "宏國大央北",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "19.5",
+        "type": "住宅大樓",
+        "square": "21.30",
+        "square_price": 69.86,
+        "total_price": "1488 ",
+        "search": [
+            "湯泉二期(湯泉美地)",
+            "近捷運新北捷新和國小站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "40.5",
+        "type": "透天厝",
+        "square": "29.47",
+        "square_price": 60.4,
+        "total_price": "1780 ",
+        "search": [
+            "新上",
+            "台北小城",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.6",
+        "type": "公寓",
+        "square": "29.82",
+        "square_price": 24.41,
+        "total_price": "728 ",
+        "search": [
+            "新上"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.2",
+        "type": "華廈",
+        "square": "40.44",
+        "square_price": 39.52,
+        "total_price": "1598 ",
+        "search": [
+            "台北舊金山",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "華廈",
+        "square": "30.83",
+        "square_price": 35.03,
+        "total_price": "1080 ",
+        "search": [
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "24.49",
+        "square_price": 58.72,
+        "total_price": "1438 ",
+        "search": [
+            "新上",
+            "近捷運新北捷十四張站",
+            "近捷運環狀線十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "店面",
+        "square": "28.75",
+        "square_price": 92.24,
+        "total_price": "2652 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "7.0",
+        "type": "辦公商業大樓",
+        "square": "36.04",
+        "square_price": 43.84,
+        "total_price": "1580 ",
+        "search": [
+            "陽光PARK"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "33.06",
+        "square_price": 66.18,
+        "total_price": "2188 ",
+        "search": [
+            "新上",
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "26.7",
+        "type": "透天厝",
+        "square": "48.73",
+        "square_price": 30.74,
+        "total_price": "1498 ",
+        "search": [
+            "新上",
+            "彩蝶",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.8",
+        "type": "住宅大樓",
+        "square": "37.79",
+        "square_price": 25.93,
+        "total_price": "980 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "27.0",
+        "type": "住宅大樓",
+        "square": "61.79",
+        "square_price": 25.86,
+        "total_price": "1598 ",
+        "search": [
+            "達觀鎮",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "53.6",
+        "type": "公寓",
+        "square": "26.62",
+        "square_price": 55.6,
+        "total_price": "1480 ",
+        "search": [
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "45.6",
+        "type": "公寓",
+        "square": "27.16",
+        "square_price": 76.58,
+        "total_price": "2080 ",
+        "search": [
+            "新上",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "51.4",
+        "type": "透天厝",
+        "square": "69.96",
+        "square_price": 164.38,
+        "total_price": "11500 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "49.9",
+        "type": "公寓",
+        "square": "22.54",
+        "square_price": 65.66,
+        "total_price": "1480 ",
+        "search": [
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "9.6",
+        "type": "住宅大樓",
+        "square": "151.71",
+        "square_price": 77.78,
+        "total_price": "11800 ",
+        "search": [
+            "寶徠花園",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "51.2",
+        "type": "公寓",
+        "square": "26.94",
+        "square_price": 98.37,
+        "total_price": "2650 ",
+        "search": [
+            "近捷運大坪林站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "49.6",
+        "type": "公寓",
+        "square": "25.14",
+        "square_price": 71.12,
+        "total_price": "1788 ",
+        "search": [
+            "近捷運新店區公所站",
+            "近捷運七張站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "4.0",
+        "type": "住宅大樓",
+        "square": "72.14",
+        "square_price": 70.7,
+        "total_price": "5100 ",
+        "search": [
+            "友座臻美",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "4.0",
+        "type": "住宅大樓",
+        "square": "72.14",
+        "square_price": 73.47,
+        "total_price": "5300 ",
+        "search": [
+            "友座臻美",
+            "近捷運七張站",
+            "近捷運大坪林站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "6.7",
+        "type": "住宅大樓",
+        "square": "47.59",
+        "square_price": 68.92,
+        "total_price": "3280 ",
+        "search": [
+            "新上",
+            "巴黎皇宮",
+            "近捷運新店區公所站",
+            "近捷運七張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "43.6",
+        "type": "公寓",
+        "square": "23.37",
+        "square_price": 55.54,
+        "total_price": "1298 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "12.0",
+        "type": "華廈",
+        "square": "31.63",
+        "square_price": 62.91,
+        "total_price": "1990 ",
+        "search": [
+            "碧潭星光華廈",
+            "近捷運新店站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "0.6",
+        "type": "透天厝",
+        "square": "96.35",
+        "square_price": 46.5,
+        "total_price": "4480 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "29.1",
+        "type": "華廈",
+        "square": "35.12",
+        "square_price": 42.65,
+        "total_price": "1498 ",
+        "search": [
+            "新上",
+            "浪漫山林",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "29.1",
+        "type": "住宅大樓",
+        "square": "35.70",
+        "square_price": 47.56,
+        "total_price": "1698 ",
+        "search": [
+            "新上",
+            "名揚四海",
+            "近捷運新北捷新和國小站",
+            "近捷運環狀線秀朗橋站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "23.7",
+        "type": "住宅大樓",
+        "square": "41.76",
+        "square_price": 56.47,
+        "total_price": "2358 ",
+        "search": [
+            "新上",
+            "天闊",
+            "近捷運新店站",
+            "近捷運新店區公所站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.3",
+        "type": "公寓",
+        "square": "26.54",
+        "square_price": 34.97,
+        "total_price": "928 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "42.1",
+        "type": "透天厝",
+        "square": "63.40",
+        "square_price": 73.82,
+        "total_price": "4680 ",
+        "search": [
+            "錦園",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "41.7",
+        "type": "公寓",
+        "square": "52.51",
+        "square_price": 39.95,
+        "total_price": "2098 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "39.4",
+        "type": "工廠",
+        "square": "27.34",
+        "square_price": 43.16,
+        "total_price": "1180 ",
+        "search": [
+            "新上",
+            "寶福社區",
+            "近捷運七張站",
+            "近捷運新店區公所站"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "25.1",
+        "type": "華廈",
+        "square": "35.03",
+        "square_price": 28.49,
+        "total_price": "998 ",
+        "search": []
+    },
+    {
+        "district": "新店區",
+        "age": "0.0",
+        "type": "住宅大樓",
+        "square": "46.31",
+        "square_price": 66.68,
+        "total_price": "3088 ",
+        "search": [
+            "近捷運環狀線十四張站",
+            "近捷運新北捷十四張站",
+            "有天然瓦斯"
+        ]
+    },
+    {
+        "district": "新店區",
+        "age": "24.9",
+        "type": "住宅大樓",
+        "square": "29.23",
+        "square_price": 63.29,
+        "total_price": "1850 ",
+        "search": [
+            "新上",
+            "高鮮屋"
+        ]
+    }
+]
